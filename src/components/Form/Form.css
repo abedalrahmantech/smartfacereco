@@ -1,0 +1,17 @@
+.form-container {
+    background-color: #b93838;
+    opacity: 0.8;
+    background: repeating-linear-gradient( 45deg, #e7e833, #e7e833 5px, #b93838 5px, #b93838 25px );
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
