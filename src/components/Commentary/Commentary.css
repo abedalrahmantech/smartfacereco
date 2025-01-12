@@ -1,0 +1,16 @@
+/* Commentary.css */
+.commentary-container {
+    margin: 20px auto;
+    max-width: 800px;
+    text-align: center;
+  }
+  
+  .commentary-container h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .commentary-container p {
+    font-size: 18px;
+    line-height: 1.5;
+  }
